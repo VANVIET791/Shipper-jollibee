@@ -1,0 +1,16 @@
+.WapperHeader {
+    padding: 10px 120px;
+    background-color: #df1010;
+}
+
+.WapperHeaderSearch {
+    padding: 30px 30px 30px 30px;
+}
+
+.WapperAccout {
+    display: flex;
+    padding: 20px 30px 30px 30px;
+    align-items: center;
+    color: #fff;
+    gap: 10px;
+}

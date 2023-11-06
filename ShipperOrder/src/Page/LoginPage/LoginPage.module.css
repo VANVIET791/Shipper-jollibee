@@ -1,0 +1,14 @@
+.WapperLoginLeft {
+    padding: 40px 45px 24px;
+    background-color: red;  
+}
+
+.WapperLoginLogo {
+    text-align: center;
+}
+
+
+.WapperLoginButton {
+    text-align: center;
+    margin-top: 20px;
+}
